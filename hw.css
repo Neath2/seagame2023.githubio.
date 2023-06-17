@@ -1,0 +1,32 @@
+.width{
+    
+    width: 40%;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 20px;
+
+}
+.dis{
+    display: flex;
+}
+.a{
+    font-size:large;
+    font-style:oblique;
+}
+.p{
+    text-align: center;
+    font-size: x-large;
+}
+.pv{
+    text-align: left;
+    font-size: x-large;
+}
+.linkk{
+
+    text-align: right;
+    font-size: x-large;
+}
+.lis{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
